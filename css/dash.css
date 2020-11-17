@@ -1,0 +1,29 @@
+body{
+    background-color: #d2ebff;
+}
+.img-profile{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    background-color: teal;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-right: 5px;
+}
+.card-dash{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dash-module{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#user-account{
+    font-size: 3rem;
+}
+.aside{
+    margin-top: 50px;
+}
